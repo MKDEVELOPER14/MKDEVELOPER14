@@ -9,7 +9,7 @@ Kalaiyarasan M is a passionate software engineer specializing in Fullstack devel
 
 ### Streetcred:
 
-<a href="https://www.tublian.com/profile/MKDEVELOPER14?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/MKDEVELOPER14?type=with_score"></a>
+<a href="https://www.tublian.com/profile/MKDEVELOPER14?ss=true"><img src="https://rd3ps1doua.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/MKDEVELOPER14?type=without_score"></a>
 
 ### My Stack:
 
